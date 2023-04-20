@@ -35,16 +35,11 @@ To find the Housing Mediation program closest to you see the map and click the l
 - [Beaverton Center for Mediation and Dialogue](https://www.beavertonoregon.gov/1531/Housing-Mediation) (Washington County) 
     - Phone: 503-526-3733 | Address: 12725 SW Millikan Way, Beaverton, OR 97005
 - [Clackamas County Resolution Services](https://www.clackamas.us/ccrs) (Clackamas County)
-  
-  Phone: 503-655-8415 | Address: 2051 Kaen Road Oregon City, OR 97045
+    - Phone: 503-655-8415 | Address: 2051 Kaen Road Oregon City, OR 97045
 - [Neighbor-2-Neighbor](http://www.n2nmediation.org/) (Marion, Linn, Benton, and Lincoln counties)
-  
-  Phone: 503-585-0651 | Address: 347 Union Street NE, Salem, OR 97301
-  
-  Phone: 541-223-4189 | Address: 308 Broadalbin Street SW, Albany, OR 97321
+    - Phone: 503-585-0651 | Address: 347 Union Street NE, Salem, OR 97301
+    - Phone: 541-223-4189 | Address: 308 Broadalbin Street SW, Albany, OR 97321
 - [Six Rivers Dispute Resolution Center](http://www.6rivers.org/) (Hood River, Wasco, Sherman, Gilliam, and Wheeler counties)
-  
-  Phone: 541-386-1283 | Address: 601 Cascade Ave., Hood River, OR 97031
+    - Phone: 541-386-1283 | Address: 601 Cascade Ave., Hood River, OR 97031
 - [Resolve](https://resolvecenter.org/) (Jackson and Josephine counties)
-  
-  Phone: 541-770-2468 | Address: 1237 Riverside Avenue, Suite 25, Medford, OR 97501
+    - Phone: 541-770-2468 | Address: 1237 Riverside Avenue, Suite 25, Medford, OR 97501
