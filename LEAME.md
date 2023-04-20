@@ -5,34 +5,34 @@ ref: index
 ---
 <div style="text-align: right"><a href="/README.html">en</a></div>
 
-## Free Mediation Services to Resolve Renter and Housing Provider Disputes
+## Servicios de mediación gratuitos para resolver disputas entre inquilinos y proveedores de vivienda
 
-Prevent an eviction before it's filed.
+Evite un desalojo antes de que se presente.
 
-Resolution Centers in 5 regions across Oregon are now offering free mediation
-and conflict coaching for disputes between renters and housing providers. An
-eviction does not need to be filed, or even formally talked about, to receive
-these services.
+Los Centros de resolución en 5 regiones de Oregón ahora ofrecen mediación
+gratuita y asesoramiento sobre conflictos para disputas entre inquilinos y
+proveedores de vivienda. No es necesario presentar un desalojo, ni siquiera
+hablar formalmente, para recibir estos servicios.
 
-As part of an integrated system of services that support housing stability,
-mediation is an effective community tool that prevents evictions from being
-filed, diverts evictions out of the court system, and keeps people housed.
-Our aim is to improve relationships between housing providers and renters so
-that eviction filings, and the resulting negative impacts to families and
-communities, don't happen in the first place.
+Como parte de un sistema integrado de servicios que apoyan la estabilidad de la
+vivienda, la mediación es una herramienta comunitaria eficaz que evita que se
+presenten desalojos, desvía los desalojos del sistema judicial y mantiene a las
+personas alojadas. Nuestro objetivo es mejorar las relaciones entre los
+proveedores de viviendas y los inquilinos para que las solicitudes de desalojo
+y los impactos negativos resultantes para las familias y las comunidades no
+ocurran en primer lugar.
 
-Funded by Oregon Housing and Community Services (OHCS) and in partnership
-with Resolution Oregon, the program seeks to increase underserved community
-member's access to preventative services and to improve access to justice in
-Ore<F29><F28>gon.
+Financiado por los Servicios Comunitarios y de Vivienda de Oregón (OHCS) y en
+asociación con Resolution Oregon, el programa busca aumentar el acceso de los
+miembros de la comunidad desatendidos a los servicios preventivos y mejorar el
+acceso a la justicia en Oregón.
 
-For more depth on Oregon's Eviction Prevention programs, visit
-the [OOCDR's website](https://law.uoregon.edu/academics/centers/adr/oocdr/eviction_prevention_mediation_demonstration).
+Para obtener más información sobre los programas de prevención de desalojos de Oregón, visite [el sitio web de la OOCDR](https://law.uoregon.edu/academics/centers/adr/oocdr/eviction_prevention_mediation_demonstration).
 
 ![Map of Oregon](/assets/map.png)
 
-- [Beaverton Center for Mediation and Dialogue](https://www.beavertonoregon.gov/425/Center-for-Mediation-Dialogue) (Washington County)
-- [Clackamas County Resolution Services](https://www.clackamas.us/ccrs) (Clackamas County)
-- [Neighbor-2-Neighbor](http://www.n2nmediation.org/) (Marion, Linn, Benton, and Lincoln counties)
-- [Six Rivers Dispute Resolution Center](http://www.6rivers.org/) (Hood River, Wasco, Sherman, Gilliam, and Wheeler counties)
-- [Resolve](https://resolvecenter.org/) (Jackson and Josephine counties)
+- [Centro de Beaverton para la Mediación y el Diálogo](https://www.beavertonoregon.gov/425/Center-for-Mediation-Dialogue) (Condado de Washington)
+- [Servicios de resolución del condado de Clackamas](https://www.clackamas.us/ccrs) (Condado de Clackamas)
+- [Vecino-2-vecino](http://www.n2nmediation.org/) (Condados de Marion, Linn, Benton y Lincoln)
+- [Centro de Resolución de Disputas de Six Rivers](http://www.6rivers.org/) (Condados de Hood River, Wasco, Sherman, Gilliam y Wheeler)
+- [Resolver](https://resolvecenter.org/) (Condados de Jackson y Josephine)
