@@ -3,7 +3,7 @@ title: Oregon Housing Mediation Services
 lang: en
 ref: index
 ---
-<div style="text-align: right">[es](/LEAME.html)</div>
+<div style="text-align: right"><a href="/LEAME.html">es</a></div>
 
 ## Free Mediation Services to Resolve Renter and Housing Provider Disputes
 
