@@ -33,7 +33,7 @@ To find the Housing Mediation program closest to you see the map and click the l
 ![Map of Oregon](/assets/map.png)
 
 - [Beaverton Center for Mediation and Dialogue](https://www.beavertonoregon.gov/1531/Housing-Mediation) (Washington County) 
-    Phone: 503-526-3733 | Address: 12725 SW Millikan Way, Beaverton, OR 97005
+    - Phone: 503-526-3733 | Address: 12725 SW Millikan Way, Beaverton, OR 97005
 - [Clackamas County Resolution Services](https://www.clackamas.us/ccrs) (Clackamas County)
   
   Phone: 503-655-8415 | Address: 2051 Kaen Road Oregon City, OR 97045
