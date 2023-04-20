@@ -3,10 +3,7 @@ title: Servicios de mediación de vivienda de Oregón
 lang: es
 ref: index
 ---
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-[{{page.lang}}]({{page.url}})
-{% endfor %}
+<div style="text-align: right">[en](/README.html)</div>
 
 ## Free Mediation Services to Resolve Renter and Housing Provider Disputes
 
