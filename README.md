@@ -29,7 +29,7 @@ Ore<F29><F28>gon.
 For more depth on Oregon's Eviction Prevention programs, visit
 the [OOCDR's website](https://law.uoregon.edu/academics/centers/adr/oocdr/eviction_prevention_mediation_demonstration).
 
-To find the Housing Mediation program closest to you see the map and links below:
+To find the Housing Mediation program closest to you see the map and click the links below:
 
 ![Map of Oregon](/assets/map.png)
 
