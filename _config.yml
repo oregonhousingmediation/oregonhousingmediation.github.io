@@ -1,14 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
-- jekyll-multiple-languages-plugin
 title: Oregon Housing Mediation Servicees
 description: This page is a current list of free housing mediation services in Oregon.
 url: https://www.oregonhousingmediation.com/
-
-languages: ["en", "es"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  es: Espanol
-  en: English
