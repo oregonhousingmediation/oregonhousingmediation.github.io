@@ -41,6 +41,7 @@ To find the Housing Mediation program closest to you see the map and click the l
 - [Neighbor-2-Neighbor](http://www.n2nmediation.org/) (Marion, Linn, Benton, and Lincoln counties)
   
   Phone: 503-585-0651 | Address: 347 Union Street NE, Salem, OR 97301
+  
   Phone: 541-223-4189 | Address: 308 Broadalbin Street SW, Albany, OR 97321
 - [Six Rivers Dispute Resolution Center](http://www.6rivers.org/) (Hood River, Wasco, Sherman, Gilliam, and Wheeler counties)
   
