@@ -1,13 +1,17 @@
 <!doctype html>
 <html>
+    <head>
 <script type="type/javascript">
 
 var language = navigator.browserLanguage || navigator.language || navigator.userLanguage;
 
 if (language.indexOf('es') > -1) {
-document.location.href = '/LEAME.html';
+    console.log("spanish!");
+    window.location = '/LEAME.html';
 } else {
-document.location.href = '/README.html';
+    console.log("english!");
+    window.location = '/README.html';
 }
 </script>
+    </head>
 </html>
