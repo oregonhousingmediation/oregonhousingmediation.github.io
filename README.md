@@ -3,21 +3,10 @@ title: Oregon Housing Mediation Services
 lang: en
 ref: index
 ---
-<ul>
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
-
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
+[{{page.lang}}]({{page.url}})
 {% endfor %}
-</ul>
 
 ## Free Mediation Services to Resolve Renter and Housing Provider Disputes
 
